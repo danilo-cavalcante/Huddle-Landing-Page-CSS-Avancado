@@ -1,0 +1,44 @@
+@media (max-width:425px) {
+    body {
+        background-image: url("../images/bg-mobile.svg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 20vh;
+    }
+
+    main {
+        flex-direction: column;
+        margin: 30px;
+    }
+
+    .header img {
+        width: 30vw;
+    }
+
+    .info {
+        margin: 50px auto;
+        text-align: center;
+        max-width: 100%;
+    }
+
+    .info h1 {
+        font-size: 1.8rem;
+    }
+
+    .info p {
+        font-size: 1.2rem;
+    }
+
+    .images img {
+        width: 80vw;
+    }
+
+    .contacts {
+        justify-content: center;
+        margin: 20px 0;
+    }
+
+    .info .register {
+        padding: 10px 70px;
+    }
+}
