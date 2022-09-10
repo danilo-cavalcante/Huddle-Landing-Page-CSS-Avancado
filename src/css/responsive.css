@@ -1,4 +1,4 @@
-@media (max-width:425px) {
+@media (max-width:980px) {
     body {
         background-image: url("../images/bg-mobile.svg");
         background-size: cover;

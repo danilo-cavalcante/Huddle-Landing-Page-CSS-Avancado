@@ -81,6 +81,6 @@ main {
 }
 
 .circle:hover {
-    color: #fc55ff;
-    border-color: #fc55ff;
+    color: hsl(300, 69%, 71%);
+    border-color: hsl(300, 69%, 71%);
 }
